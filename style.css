@@ -1,0 +1,15 @@
+.jumbotron{
+    color: white;
+    height: 100vh;
+    background-image: url("image/jumbo.jpg");
+    background-size: cover;
+    padding-top: 20%;
+}
+
+.jumbotron a{
+    color: white;
+}
+
+.jumbotron h1{
+    font-family: "Sacramento", cursive;
+}
